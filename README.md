@@ -4,5 +4,6 @@ Product sales pivot table
 <img width="740" alt="image" src="https://user-images.githubusercontent.com/57039610/153758707-1d903f56-782f-476a-ac52-0a0fd436d41f.png">
 <br>
 breakdown table
-<img width="465" alt="image" src="https://user-images.githubusercontent.com/57039610/154791757-b78687ab-062a-4079-a813-d12a9a8185f8.png">
+<br>
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/57039610/154791757-b78687ab-062a-4079-a813-d12a9a8185f8.png">
 
