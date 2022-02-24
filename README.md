@@ -11,4 +11,8 @@ sales revenue price and volume (profit = revenue-cost)
 breakdown table
 <br>
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/57039610/154791757-b78687ab-062a-4079-a813-d12a9a8185f8.png">
+<br> 
+show the peak - power query
+<br>
+<img width="926" alt="image" src="https://user-images.githubusercontent.com/57039610/155492525-af771300-01fe-4efd-ac79-3f95d8ee07c3.png">
 
