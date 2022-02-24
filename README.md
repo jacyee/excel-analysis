@@ -1,6 +1,6 @@
 Product sales pivot table
 <br>
-sales revenue price and volume
+sales revenue price and volume (profit = revenue-cost)
 <br>
 <img width="587" alt="image" src="https://user-images.githubusercontent.com/57039610/155480544-12c91071-3bed-45f0-af65-f6030e543e7b.png">
 
