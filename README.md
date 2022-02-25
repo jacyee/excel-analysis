@@ -17,4 +17,5 @@ show the peak - power query
 <img width="926" alt="image" src="https://user-images.githubusercontent.com/57039610/155492525-af771300-01fe-4efd-ac79-3f95d8ee07c3.png">
 <br>
 <img width="572" alt="image" src="https://user-images.githubusercontent.com/57039610/155499441-560458eb-8e91-41b3-8357-a670a5067c23.png">
-
+<br>
+pivot table
