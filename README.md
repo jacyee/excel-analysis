@@ -18,6 +18,10 @@ show the peak - power query
 <br>
 <img width="572" alt="image" src="https://user-images.githubusercontent.com/57039610/155499441-560458eb-8e91-41b3-8357-a670a5067c23.png">
 <br>
+conditional formatting
+<br>
+<img width="342" alt="image" src="https://user-images.githubusercontent.com/57039610/159734011-81e06a1e-b516-414b-b901-3164751f08e7.png">
+<br>
 Power pivot
 <br>
 Year to date (YTD)
