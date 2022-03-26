@@ -27,4 +27,7 @@ Power pivot
 Year to date (YTD)
 <br>
 Last twelve month (LTM)
+<br>
+vlookup match
+<img width="546" alt="image" src="https://user-images.githubusercontent.com/57039610/160231688-ac404139-ca81-48c2-9453-494e48a55ede.png">
 
