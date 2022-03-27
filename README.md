@@ -12,7 +12,7 @@ breakdown table
 <br>
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/57039610/154791757-b78687ab-062a-4079-a813-d12a9a8185f8.png">
 <br> 
-show the peak - power query
+Power query - show the peak
 <br>
 <img width="926" alt="image" src="https://user-images.githubusercontent.com/57039610/155492525-af771300-01fe-4efd-ac79-3f95d8ee07c3.png">
 <br>
@@ -31,7 +31,7 @@ Last twelve month (LTM)
 vlookup match
 <img width="546" alt="image" src="https://user-images.githubusercontent.com/57039610/160231688-ac404139-ca81-48c2-9453-494e48a55ede.png">
 <br>
-dashboard
+Dashboard
 <br>
 <img width="620" alt="image" src="https://user-images.githubusercontent.com/57039610/160288844-cafedf64-ab50-4695-8515-d76b3252ed52.png">
 
