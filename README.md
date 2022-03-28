@@ -35,3 +35,5 @@ Dashboard
 <br>
 <img width="620" alt="image" src="https://user-images.githubusercontent.com/57039610/160288844-cafedf64-ab50-4695-8515-d76b3252ed52.png">
 
+<br>
+<img width="783" alt="image" src="https://user-images.githubusercontent.com/57039610/160357632-5eec87ed-dfec-485a-8973-71966515b7cd.png">
