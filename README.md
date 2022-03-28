@@ -39,5 +39,5 @@ Dashboard
 <img width="607" alt="image" src="https://user-images.githubusercontent.com/57039610/160364317-38c1138e-f60d-48cb-84a1-bab5d2aff31c.png">
 <br>
 Regression plot
-<img width="356" alt="image" src="https://user-images.githubusercontent.com/57039610/160398868-519614d8-0b2b-42d3-b7d6-03b41c08348a.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/57039610/160398868-519614d8-0b2b-42d3-b7d6-03b41c08348a.png">
 
